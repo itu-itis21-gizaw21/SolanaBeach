@@ -23,7 +23,7 @@ const GreetingSchema = new Map([
  */
 //console.log(GREETING_SIZE);
 
-const GREETING_SIZE = 11 * 1024 * 1024;
+const GREETING_SIZE = 11 * 1024 * 1024; // 11MB
 
 
 let payer: web3.Keypair;
